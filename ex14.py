@@ -1,4 +1,4 @@
-d=(1001,'Dharun anna kumar(soup boy)',1002,'kavin kumar(Bestie boy)',1003,'pasupathi raj kumar(Bestie boy2)',1004,'sudarsan(GoodBoy)',1005,'kavin  sanker(lover boy)')
+d={1001:'Dharun anna kumar',1002:'kavin kumar',1003:'pasupathi raj kumar',1004:'sudarsan',1005:'kavin  sanker'}
 print('The length of the dictionary is:',len(d))
 print('The copied dictionary is:' ,d.copy())
 print('The removed element is :' ,d.pop(1005))
